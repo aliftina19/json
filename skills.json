@@ -1,5 +1,5 @@
-{"skills": {1: "basic theory",
-	2: "http requests",
-	3: "wat is json,hml",
-	4: "mobail testing"}
+{"skills": {"one": "basic theory",
+	"two": "http requests",
+	"three": "wat is json,hml",
+	"foir": "mobail testing"}
 }
